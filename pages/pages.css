@@ -10,12 +10,13 @@ main {
     align-items: center;
     flex-direction: column;
     width: 98vw;
-    height: 95vh; 
+    height: 95vh;
 }
 
 a.click {
     width: 800px;
     height: 100px;
+    margin: 20px;
     background-color: rgb(0, 255, 106);
     opacity: 0.5;
     display: flex;
